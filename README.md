@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farhan Novyan Hafizh
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning fullstack with React and Go
+- 🗿 "Developers don’t flex on Instagram, they flex on GitHub activity"
 - 📫 You can reach me on my lnkedin <a href="https://www.linkedin.com/in/farhan-hafizh-5209ab148/">Here</a> 
 
 <!---
