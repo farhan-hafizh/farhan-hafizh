@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farhan Novyan Hafizh
 - 👀 I’m interested in Backend
-- 🗿 "Developers don’t flex on Instagram, they flex on GitHub activity"
+- 🗿 "Developers don’t flex on Instagram, they flex on GitHub contributions"
 - 📫 You can reach me on my lnkedin <a href="https://www.linkedin.com/in/farhan-hafizh-5209ab148/">Here</a> 
 
 <!---
